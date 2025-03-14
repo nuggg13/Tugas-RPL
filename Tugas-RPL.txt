@@ -3,3 +3,4 @@
 -Menghubungkan ke Database
 -Membuat Aplikasi sayuran
 -Menggabungkan seluruh hasil kemarin
+-apri china
